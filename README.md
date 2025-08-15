@@ -327,8 +327,6 @@ go build -o app main.go
 - **UI/UX Design**: Figma design system
 - **Frontend Development**: React + Tailwind CSS
 - **Backend Development**: Go + Fiber
-- **Database Design**: MySQL schema
-- **DevOps**: Deployment dan monitoring
 
 ## 📄 License
 
