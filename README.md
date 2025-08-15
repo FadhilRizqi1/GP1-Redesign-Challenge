@@ -1,6 +1,6 @@
 # 🎨 Redesign Challenge - GDGOC Universitas Sriwijaya
 
-Website redesign untuk Fakultas Ilmu Komputer Universitas Sriwijaya yang dibangun dengan teknologi modern dan desain yang responsif.
+Website redesign untuk Fakultas Ilmu Komputer Universitas Sriwijaya.
 
 ## 🎯 UI/UX Design
 
