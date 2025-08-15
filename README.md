@@ -16,8 +16,6 @@ Website ini merupakan hasil redesign dari website Fakultas Ilmu Komputer Univers
 
 - Clean dan minimalist design
 - Responsive layout untuk semua device
-- Modern color scheme dengan gradient effects
-- Smooth animations dan transitions
 
 ### 📱 **User Experience**
 
