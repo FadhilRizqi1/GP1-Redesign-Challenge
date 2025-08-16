@@ -233,32 +233,6 @@ curl http://localhost:8080/api/berita?is_priority=true&limit=5
 - Hanya berita yang sudah waktunya yang ditampilkan
 - Support format ISO 8601 (RFC3339)
 
-## 🛠️ Development
-
-### **Build Application**
-
-```bash
-go build -o app main.go
-```
-
-### **Run Tests**
-
-```bash
-go test ./...
-```
-
-### **Format Code**
-
-```bash
-go fmt ./...
-```
-
-### **Lint Code**
-
-```bash
-golangci-lint run
-```
-
 ## 📋 Dependencies
 
 - **Fiber**: Web framework
@@ -267,13 +241,3 @@ golangci-lint run
 - **Bcrypt**: Password hashing
 - **Go Cache**: In-memory caching
 - **Godotenv**: Environment variable loader
-
-## 🔄 Migrasi dari Versi Sebelumnya
-
-Perubahan utama dari versi sebelumnya:
-
-- Nama modul: `redesign` → `redesign-challenge`
-- Model: `File` → `Dokumen`
-- Function: `SaveFile` → `SimpanDokumen`
-- Route: `/api/file` → `/api/dokumen`
-- Pesan error: Bahasa Inggris → Bahasa Indonesia
