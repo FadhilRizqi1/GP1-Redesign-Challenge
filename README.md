@@ -253,84 +253,15 @@ Frontend akan berjalan di `http://localhost:5173`
 - **File Upload**: Validasi dan compression
 - **Cache**: In-memory cache untuk berita
 
-## 🧪 Testing
-
-### **Manual Testing**
-
-- Cross-browser testing (Chrome, Firefox, Safari, Edge)
-- Responsive testing di berbagai device
-- Performance testing dengan Lighthouse
-- Accessibility testing
-
-### **Code Quality**
-
-```bash
-# Frontend
-cd frontend
-npm run lint
-
-# Backend
-cd backend
-go fmt ./...
-go vet ./...
-```
-
-## 📦 Build & Deployment
-
-### **Frontend Production**
-
-```bash
-cd frontend
-npm run build
-```
-
-### **Backend Production**
-
-```bash
-cd backend
-go build -o app main.go
-```
-
-## 🔄 Development Workflow
-
-1. **Design** → Figma design review
-2. **Frontend** → React component development
-3. **Backend** → API development
-4. **Integration** → Frontend-Backend connection
-5. **Testing** → Manual dan automated testing
-6. **Deployment** → Production deployment
-
-## 📈 Monitoring & Analytics
-
-- **Performance Monitoring**: Core Web Vitals
-- **Error Tracking**: Console errors dan API errors
-- **User Analytics**: Page views dan interactions
-- **SEO**: Meta tags dan structured data
-
-## 🎯 Future Enhancements
-
-- **Admin Dashboard**: Full CRUD interface
-- **Real-time Updates**: WebSocket integration
-- **PWA Features**: Offline support
-- **Multi-language**: Internationalization
-- **Advanced Search**: Full-text search
-- **Analytics Dashboard**: User behavior insights
-
 ## 👥 Tim Pengembang
 
-**Event Redesign Challenge** - GDGOC Universitas Sriwijaya
+**Group1 Redesign Challenge** - GDGOC Universitas Sriwijaya
 
 ### **Roles**
 
 - **UI/UX Design**: Figma design system
 - **Frontend Development**: React + Tailwind CSS
 - **Backend Development**: Go + Fiber
-
-## 📄 License
-
-Proyek ini dibuat untuk tujuan edukasi dan kompetisi **Event Redesign Challenge** yang diselenggarakan oleh GDGOC Universitas Sriwijaya.
-
----
 
 ## 🔗 Links
 
