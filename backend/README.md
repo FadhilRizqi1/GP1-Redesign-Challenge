@@ -17,7 +17,7 @@ backend/
 ├── models/
 │   ├── admin.go           # Model Admin
 │   ├── berita.go          # Model Berita
-│   └── dokumen.go         # Model Dokumen (sebelumnya File)
+│   └── dokumen.go         # Model Dokumen
 ├── controllers/
 │   ├── admin.go           # Controller untuk autentikasi admin
 │   ├── berita.go          # Controller untuk CRUD berita
